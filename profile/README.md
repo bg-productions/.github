@@ -1,6 +1,6 @@
 <div align="center">
   <h1>
-    <img src="https://github.com/bg-productions/.github/blob/main/profile/Logo%20-%20Main.png?raw=true" width="45" height="45" valign="middle">
+    <img src="https://github.com/bg-productions/.github/blob/main/profile/code.png?raw=true" width="45" height="45" valign="middle">
     BG Productions
   </h1>
   <p><i>Think it • Describe it • Enjoy it</i></p>
